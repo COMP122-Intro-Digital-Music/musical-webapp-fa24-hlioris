@@ -2,7 +2,7 @@
   {
     "name": "CleanChorus",
     "file": "samples/Barricade_CleanChorus.mp3",
-    "bpm": "120",
+    "bpm": "132",
     "loop": "13m"
   },
   {
@@ -20,7 +20,7 @@
   {
     "name": "CleanPreChorus",
     "file": "samples/Barricade_CleanPreChorus.mp3",
-    "bpm": "134",
+    "bpm": "146",
     "loop": "7m"
   }
 ]
