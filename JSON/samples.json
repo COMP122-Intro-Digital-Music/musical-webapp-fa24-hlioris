@@ -8,13 +8,13 @@
   {
     "name": "CleanRiff",
     "file": "samples/Barricade_CleanRiff.mp3",
-    "bpm": "132",
+    "bpm": "136",
     "loop": "4m"
   },
   {
     "name": "CleanInterlude",
     "file": "samples/Barricade_CleanInterlude.mp3",
-    "bpm": "130",
+    "bpm": "136",
     "loop": "8m"
   },
   {
