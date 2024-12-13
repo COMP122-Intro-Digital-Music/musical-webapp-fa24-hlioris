@@ -8,19 +8,19 @@
   {
     "name": "CleanRiff",
     "file": "samples/Barricade_CleanRiff.mp3",
-    "bpm": "138",
+    "bpm": "132",
     "loop": "4m"
   },
   {
     "name": "CleanInterlude",
     "file": "samples/Barricade_CleanInterlude.mp3",
-    "bpm": "142",
+    "bpm": "132",
     "loop": "8m"
   },
   {
     "name": "CleanPreChorus",
     "file": "samples/Barricade_CleanPreChorus.mp3",
-    "bpm": "156",
+    "bpm": "137",
     "loop": "7m"
   }
 ]
