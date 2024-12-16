@@ -1,1 +1,56 @@
-[ ]
+[
+  {
+    "name": "OrganSynth",
+    "type": "Synth",
+    "settings": {
+      "volume": "-18",
+      "detune": "0",
+      "portamento": "0.1",
+      "envelope": {
+        "attack": "0.05",
+        "attackCurve": "linear",
+        "decay": "0.2",
+        "decayCurve": "exponential",
+        "release": "1.1",
+        "releaseCurve": "cosine",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "fmsine",
+        "harmonicity": "1",
+        "modulationType": "square",
+        "modulationIndex": "3"
+      }
+    }
+  },
+  {
+    "name": "BrightSynth",
+    "type": "Synth",
+    "settings": {
+      "volume": "0",
+      "detune": "0",
+      "portamento": "0.05",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "fmsine",
+        "harmonicity": "1",
+        "modulationType": "triangle",
+        "modulationIndex": "2"
+      }
+    }
+  }
+]
